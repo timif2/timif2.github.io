@@ -12,7 +12,7 @@ X Y Z
 
 ## Computer Vision
 
-## Standalone Projects
+## Reports and papers
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
 
