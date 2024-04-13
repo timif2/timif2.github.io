@@ -1,5 +1,7 @@
 # Data Science Projects 
 
+Here is a collection is selected my data science related projects, used to explore components of machine learning. My projects in statistical analysis can be found here.
+
 At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and highly interesting applications in NLP and Computer Vision are what I find incredible, and I’m looking to learn how to improve these architectures. 
 
 I am currently developing an educational web app on transformers. If you would like to contact me about this please *send me an email.*
