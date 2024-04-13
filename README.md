@@ -16,11 +16,11 @@ X Y Z
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
 
-You can view the full report here. This was a collaboration with Weiyun Wu, Alastair Harrison and Ying Zhan. You can view accompanying slides for the heart conditions project here.
+You can view the full report here. This was a collaboration with Weiyun Wu, Alastair Harrison and Ying Zhan. You can view accompanying presentation slides for the heart conditions project here.
 
 ### Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
 
-You can view the full report here, with accompanying slides here. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal
+You can view the full report here, with accompanying presentation slides here. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal
 
 ## Recommendation Systems
 
