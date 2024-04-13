@@ -1,4 +1,4 @@
-# Data Science Projects - Timi Folaranmi
+# Data Science Projects 
 
 ## Neural Networks
 
@@ -6,6 +6,8 @@
 
 X Y Z
 
+## Computer Vision
+
 ## Recommendation Systems
 
-## Large Language Models (LLMs)
+## Paper Implementations
