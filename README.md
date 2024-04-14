@@ -9,13 +9,11 @@ I am currently developing an educational web app on transformers. If you would l
 ## Neural Networks
 
 ### Sequence classification with LSTM Recurrent Neural Network, using Keras
-
 [Github](https://github.com/timif2/neural-networks/blob/90e84800424fce0ff569115d7204b7344e84a045/Sequence%20Classification%20with%20LSTM%20Recurrent%20Neural%20Networks%20with%20Keras.ipynb)
 
-Explored movie review sentiment problem using LSTM Recurrent Neural Network, with Keras.
+Explored movie review sentiment classification problem using LSTM Recurrent Neural Network, with Keras.
 
 ### Classification using neural networks in PyTorch
-
 [Github](https://github.com/timif2/neural-networks/blob/9489a21a391af28e1dd75296ffc92612906e7a10/Neural%20Network%20(Multi%20-%20class)%20Classification%20in%20PyTorch.ipynb)
 
 Neural network for basic multi - class classification. 
@@ -23,15 +21,14 @@ Neural network for basic multi - class classification.
 ## Computer Vision
 
 ### Vision Transformer (ViT) from scratch in PyTorch
-
 [Github](https://github.com/timif2/computer-vision/blob/bed7418b0a8a61bc8b31797573696afd6f055b51/Vision%20Transformer%20(ViT)%20from%20scratch%20in%20PyTorch%20(Paper%20Implementation).ipynb)
 
-A paper implementation of the (original) [Vision Transformer (ViT)]https://arxiv.org/abs/2010.11929 architecture using PyTorch. Applies convolutional neural network (CNN) method. It follows from code by [Daniel Bourke](https://github.com/mrdbourke/pytorch-deep-learning/)
+A paper implementation of the (original) [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) architecture using PyTorch. Applies convolutional neural network (CNN) method. It follows from code by [Daniel Bourke](https://github.com/mrdbourke/pytorch-deep-learning/)
 
 ## Reports and papers
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
-[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
+[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view)     [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
 
 Two studies applying Random Forest using R: 
 
@@ -40,7 +37,7 @@ Two studies applying Random Forest using R:
 This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
-[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view)     [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
 
 A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal
 
