@@ -4,7 +4,7 @@ This page a collection is a collection of my selected data science related proje
 
 At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and exciting applications in NLP and Computer Vision are what I find interesting. You can find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
 
-I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](timicsbe@gmail.com)
+I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](timicsbe@gmail.com).
 
 ## Neural Networks
 
@@ -28,7 +28,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 ## Reports and papers
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
-[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view)     [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
+[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
 
 Two studies applying Random Forest using R: 
 
@@ -37,9 +37,16 @@ Two studies applying Random Forest using R:
 This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
-[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view)     [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
 
-A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal
+A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal.
+
+## Natural Language Processing
+
+### Text Summarisation, using NLP
+[GitHub](https://github.com/timif2/language-models/blob/b61241d7cc7343ef5a2e1c358ce663a01c4785cb/Text%20Summarisation%20using%20Natural%20Language%20Processing.ipynb)
+
+A project exploring text summarisation, applying tokenisation and extraction method.
 
 ## Recommendation Systems
 
