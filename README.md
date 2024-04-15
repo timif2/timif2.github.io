@@ -4,7 +4,7 @@ This page a collection is a collection of my selected data science related proje
 
 At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and exciting applications in NLP and Computer Vision are what I find interesting. You can find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
 
-I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](timicsbe@gmail.com).
+I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](mailto:timicsbe@gmail.com).
 
 ## Neural Networks
 
