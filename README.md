@@ -30,9 +30,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
 [Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
 
-Two studies applying Random Forest using R: 
-
-1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
+Two studies applying Random Forest using R: 1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
 [Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
