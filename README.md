@@ -1,5 +1,3 @@
-# Data Science Projects 
-
 This page a collection is a collection of my selected data science related projects, used to explore components of machine learning. You may find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
 
 ## Neural Networks
@@ -26,7 +24,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 ### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
 [Report ](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link)
 
-Technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks.
+As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks. 
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
 [Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
