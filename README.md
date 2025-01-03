@@ -2,6 +2,25 @@ Hi, my name is Timi! I am interested in all things Data Science, and I am genera
 
 [Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / [CV](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link)
 
+# Research and Papers
+
+### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
+[Report](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link) and [Code](https://github.com/timif2/snnthesis)
+
+As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks. 
+
+### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
+[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
+
+Two studies applying Random Forest using R: 1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
+
+### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
+[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
+
+A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal.
+
+# Learning Projects
+
 ## Neural Networks
 
 ### Sequence classification with LSTM Recurrent Neural Network, using Keras
@@ -20,23 +39,6 @@ Neural network for basic multi - class classification.
 [GitHub](https://github.com/timif2/computer-vision/blob/bed7418b0a8a61bc8b31797573696afd6f055b51/Vision%20Transformer%20(ViT)%20from%20scratch%20in%20PyTorch%20(Paper%20Implementation).ipynb)
 
 A paper implementation of the (original) [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) architecture using PyTorch. Applies convolutional neural network (CNN) method. It follows from code by [Daniel Bourke](https://github.com/mrdbourke/pytorch-deep-learning/)
-
-## Research and papers
-
-### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
-[Report](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link) and [Code](https://github.com/timif2/snnthesis)
-
-As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks. 
-
-### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
-[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
-
-Two studies applying Random Forest using R: 1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
-
-### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
-[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
-
-A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal.
 
 ## Natural Language Processing
 
