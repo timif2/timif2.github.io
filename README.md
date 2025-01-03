@@ -1,4 +1,6 @@
-This page a collection is a collection of my selected data science related projects, used to explore components of machine learning. You may find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
+Hi, my name is Timi! I am interested in all things Data Science, and I am generally interested in ways to make [RAG](https://www.promptingguide.ai/techniques/rag) architectures better. I have interests in AI safety (adversarial robustness) which was the primary topic of my [thesis](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link). I recieved my MSc in Statistics from the University of Nottingham, after completing my undergraduate degree in Economics and Mathematics from the University of Bath.
+
+[Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / [CV](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link)
 
 ## Neural Networks
 
@@ -22,7 +24,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 ## Research and papers
 
 ### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
-[Report ](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link)
+[Report](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link) and [Code](https://github.com/timif2/snnthesis)
 
 As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks. 
 
