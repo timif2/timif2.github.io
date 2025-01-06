@@ -4,6 +4,8 @@ Hi, my name is Timi! My interests lie in the intersection of AI and Data Science
 
 or [CV](<embed src="https://timif2.github.io/Timi%20Folaranmi%20-%20CV%20-%20Sept2024.pdf" type="application/pdf" />)
 
+<embed src="https://timif2.github.io/Timi%20Folaranmi%20-%20CV%20-%20Sept2024.pdf" type="application/pdf" />
+
 # Research and Papers
 
 ### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
