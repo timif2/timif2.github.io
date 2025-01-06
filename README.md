@@ -24,6 +24,9 @@ Hi, my name is Timi! My interests lie in the intersection of AI and Data Science
   <img src="ECG1.PNG" alt="Diagram illustrating adversarial attacks on SNNs" style="width: 200px; max-width: 100%; height: auto; margin-right: 20px; border-radius: 8px;">
   <p style="flex: 1;">
 The first study looks at the question of: To what extent can heart conditions be predicted from ECG readings? The second study looks at a machine learning approach to predicting train delays, and conducting all analysis in R.
+  </p>
+</div>
+
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
 *Jake Dorman, **Timi Folaranmi**, Anas Almhmadi, Rishabh Agarwal*
@@ -34,7 +37,8 @@ The first study looks at the question of: To what extent can heart conditions be
   <img src="SVM1.PNG" alt="Diagram illustrating adversarial attacks on SNNs" style="width: 200px; max-width: 100%; height: auto; margin-right: 20px; border-radius: 8px;">
   <p style="flex: 1;">
 A technical report on the background, performance and evaluation of Support Vector Machines in solving general classification problems (in Python), compared with other classification methods. 
-
+  </p>
+</div>
 # Learning Projects
 
 ## Neural Networks
