@@ -1,23 +1,39 @@
 Hi, my name is Timi! My interests lie in the intersection of AI and Data Science and I love building applications (e.g. ways to build robust [RAG](https://www.promptingguide.ai/techniques/rag) architectures) and exploring ways to utilise the latest advancements in the field in a practical way. Academically, I completed my MSc. in Statistics, where I wrote my thesis on the <a href="https://timif2.github.io/AI Safety Thesis - Timi Folaranmi.pdf">adversarial robustness of Spiking Neural Networks</a>, intersecting AI Safety and neural networks.
 
-[Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / <a href="https://timif2.github.io/Timi Folaranmi - CV - Sept2024.pdf">CV</a>
+[Email](timicsbe@gmail.com) | [GitHub](https://github.com/timif2) | <a href="https://timif2.github.io/Timi Folaranmi - CV - Sept2024.pdf">CV</a>
 
 # Research and Papers
 
-### Adversarial Robustness of Rate - Encoded Spiking Neural Networks
-<a href="https://timif2.github.io/AI Safety Thesis - Timi Folaranmi.pdf">Report</a> and [Code](https://github.com/timif2/snnthesis)
+### Adversarial Robustness of Rate-Encoded Spiking Neural Networks
 
-As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks. 
+[Report](https://timif2.github.io/AI%20Safety%20Thesis%20-%20Timi%20Folaranmi.pdf) | [Code](https://github.com/timif2/snnthesis)
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-top: 20px;">
+  <img src="Thesis1.PNG" alt="Diagram illustrating adversarial attacks on SNNs" style="width: 200px; max-width: 100%; height: auto; margin-right: 20px; border-radius: 8px;">
+  <p style="flex: 1;">
+    As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attacks of rate-encoded Spiking Neural Networks (SNNs) across various white-box and black-box attacks. This study explores the robustness of SNNs in different adversarial scenarios and proposes methods to enhance their security and reliability.
+  </p>
+</div>
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
+*Alastair Harrison, **Timi Folaranmi**, Ying Zhan, Weiyun Wu* 
+
 <a href="https://timif2.github.io/ECG -based classification and Train Delay Prediction using Machine Learning.pdf">Report</a> and <a href="https://timif2.github.io/Heart Conditions Study Slides.pdf">Presentation</a>
 
-Two studies applying Random Forest using R: 1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-top: 20px;">
+  <img src="ECG1.PNG" alt="Diagram illustrating adversarial attacks on SNNs" style="width: 200px; max-width: 100%; height: auto; margin-right: 20px; border-radius: 8px;">
+  <p style="flex: 1;">
+The first study looks at the question of: To what extent can heart conditions be predicted from ECG readings? The second study looks at a machine learning approach to predicting train delays, and conducting all analysis in R.
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
+*Jake Dorman, **Timi Folaranmi**, Anas Almhmadi, Rishabh Agarwal*
+
 <a href="https://timif2.github.io/An Exploration into SVMs with comparisons to other classification methods.pdf">Report</a> and <a href="https://timif2.github.io/Support_Vector_Machines.pdf">Presentation</a>
 
-A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal.
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-top: 20px;">
+  <img src="SVM1.PNG" alt="Diagram illustrating adversarial attacks on SNNs" style="width: 200px; max-width: 100%; height: auto; margin-right: 20px; border-radius: 8px;">
+  <p style="flex: 1;">
+A technical report on the background, performance and evaluation of Support Vector Machines in solving general classification problems (in Python), compared with other classification methods. 
 
 # Learning Projects
 
