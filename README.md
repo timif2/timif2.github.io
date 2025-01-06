@@ -42,8 +42,9 @@ The first study looks at the question of: To what extent can heart conditions be
 A technical report on the background, performance and evaluation of Support Vector Machines in solving general classification problems (in Python), compared with other classification methods. 
   </p>
 </div>
-# Learning Projects
 ---
+
+# Learning Projects
 
 ## Neural Networks
 
