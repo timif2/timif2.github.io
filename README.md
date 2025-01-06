@@ -1,6 +1,6 @@
 Hi, my name is Timi! My interests lie in the intersection of AI and Data Science and I love building applications (e.g. ways to build robust [RAG](https://www.promptingguide.ai/techniques/rag) architectures) and exploring ways to utilise the latest advancements in the field in a practical way. Academically, I completed my MSc. in Statistics, where I wrote my thesis on the <a href="https://timif2.github.io/AI Safety Thesis - Timi Folaranmi.pdf">adversarial robustness of Spiking Neural Networks</a>, intersecting AI Safety and neural networks.
 
-[Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / <a href="https://timif2.github.io/Timi%20Folaranmi%20-%20CV%20-%20Sept2024.pdf">CV</a>
+[Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / <a href="https://timif2.github.io/Timi Folaranmi - CV - Sept2024.pdf">CV</a>
 
 # Research and Papers
 
