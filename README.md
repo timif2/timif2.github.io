@@ -1,4 +1,4 @@
-Hi, my name is Timi! My interests lie in the intersection of AI and Data Science and applying AI to unlock additional value in business data (e.g. ways to build robust [RAG](https://www.promptingguide.ai/techniques/rag) architectures. Academically, I completed my MSc. in Statistics, where I wrote my thesis on the [adversarial robustness of Spiking Neural Networks](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link), exploring AI safety in these networks. 
+Hi, my name is Timi! My interests lie in the intersection of AI and Data Science and applying AI to unlock additional value in business data (e.g. ways to build robust [RAG](https://www.promptingguide.ai/techniques/rag) architectures). Academically, I completed my MSc. in Statistics, where I wrote my thesis on the [adversarial robustness of Spiking Neural Networks](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link), exploring AI safety in these networks. 
 
 [Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / [CV](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link)
 
