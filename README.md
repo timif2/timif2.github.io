@@ -3,6 +3,7 @@ Hi, my name is Timi! My interests lie in the intersection of AI and Data Science
 [Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / <a href="https://timif2.github.io/Timi Folaranmi - CV - Sept2024.pdf">CV</a>
 
 # Research and Papers
+---
 
 ### Adversarial Robustness of Rate-Encoded Spiking Neural Networks
 
@@ -14,6 +15,8 @@ Hi, my name is Timi! My interests lie in the intersection of AI and Data Science
     As part of my Master's thesis, I wrote a technical report studying the resistance to adversarial attacks of rate-encoded Spiking Neural Networks (SNNs) across various white-box and black-box attacks. This study explores the robustness of SNNs in different adversarial scenarios and proposes methods to enhance their security and reliability.
   </p>
 </div>
+
+---
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
 *Alastair Harrison, **Timi Folaranmi**, Ying Zhan, Weiyun Wu* 
@@ -27,7 +30,7 @@ The first study looks at the question of: To what extent can heart conditions be
   </p>
 </div>
 
-
+---
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
 *Jake Dorman, **Timi Folaranmi**, Anas Almhmadi, Rishabh Agarwal*
 
@@ -40,6 +43,7 @@ A technical report on the background, performance and evaluation of Support Vect
   </p>
 </div>
 # Learning Projects
+---
 
 ## Neural Networks
 
